@@ -2,7 +2,7 @@
     "name": "vscode-snazzy-operator-operator",
     "displayName": "Snazzy Operator",
     "description": "Based on hyper-snazzy and optimised for Operator Mono",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "aaronthomas",
 	"license": "MIT",
 	"bugs": {
