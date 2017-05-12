@@ -535,12 +535,12 @@
     "terminal.ansiRed": "#ff5c57",
     "terminal.ansiWhite": "#eff0eb",
     "terminal.ansiYellow": "#f3f99d",
-	"activityBar.background": "#232631",
-	"sideBar.background": "#2C2F3D",
-	"tab.inactiveBackground": "#2C2F3D",
-	"tab.activeBackground": "#232631",
-	"editorGroup.dropBackground": "#232631",
-	"editorGroupHeader.tabsBackground": "#232631",
-	"titleBar.activeBackground": "#282a36"
+		"activityBar.background": "#282a36",
+		"sideBar.background": "#2C2F3D",
+		"tab.inactiveBackground": "#2C2F3D",
+		"tab.activeBackground": "#232631",
+		"editorGroup.dropBackground": "#232631",
+		"editorGroupHeader.tabsBackground": "#232631",
+		"titleBar.activeBackground": "#282a36"
   }
 }
