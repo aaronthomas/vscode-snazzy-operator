@@ -1,9 +1,18 @@
 {
-    "name": "vscode-snazzy-operator",
+    "name": "vscode-snazzy-operator-operator",
     "displayName": "Snazzy Operator",
     "description": "Based on hyper-snazzy and optimised for Operator Mono",
     "version": "0.0.1",
     "publisher": "aaronthomas",
+	"license": "MIT",
+	"bugs": {
+        "url": "https://github.com/aaronthomas/vscode-snazzy-operator/issues"
+    },
+    "homepage": "https://github.com/aaronthomas/vscode-snazzy-operator",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aaronthomas/vscode-snazzy-operator"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
@@ -18,5 +27,15 @@
                 "path": "./themes/snazzy-operator-color-theme.json"
             }
         ]
-    }
+    },
+	"keywords": [
+        "theme",
+        "color theme",
+        "vscode theme",
+        "snazzy",
+		"operator",
+		"operator mono",
+        "snazzy theme",
+        "vscode"
+    ]
 }
