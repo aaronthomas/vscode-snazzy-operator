@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "snazzy-operator"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VS Code Snazzy Operator
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) and optimised for use with the [Operator Mono](https://www.typography.com/fonts/operator/overview/) font.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshot
+![snazzy-operator](preview.png)
 
-**Enjoy!**
+## Credits
+* [vscode-snazzy](https://github.com/alexanderbast/vscode-snazzy)
+* [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)

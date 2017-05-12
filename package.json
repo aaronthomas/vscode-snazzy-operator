@@ -1,9 +1,9 @@
 {
-    "name": "snazzy-operator",
+    "name": "vscode-snazzy-operator",
     "displayName": "Snazzy Operator",
     "description": "Based on hyper-snazzy and optimised for Operator Mono",
     "version": "0.0.1",
-    "publisher": "aaronclarkethomas",
+    "publisher": "aaronthomas",
     "engines": {
         "vscode": "^1.12.0"
     },
