@@ -1,0 +1,22 @@
+{
+    "name": "snazzy-operator",
+    "displayName": "Snazzy Operator",
+    "description": "Based on hyper-snazzy and optimised for Operator Mono",
+    "version": "0.0.1",
+    "publisher": "aaronclarkethomas",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Snazzy Operator",
+                "uiTheme": "vs-dark",
+                "path": "./themes/snazzy-operator-color-theme.json"
+            }
+        ]
+    }
+}
