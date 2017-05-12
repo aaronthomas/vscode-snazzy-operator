@@ -516,8 +516,9 @@
     "list.activeSelectionBackground": "#54555e",
     "list.hoverBackground": "#54555e",
     "statusBar.background": "#2E313D",
-    "statusBar.noFolderBackground": "#2E313D",
-	"statusBar.foreground": "#6C6E75",
+		"statusBar.foreground": "#6C6E75",
+		"statusBar.debuggingBackground": "#6C6E75",
+		"statusBar.noFolderBackground": "#6C6E75",
     "terminal.ansiBlack": "#282a36",
     "terminal.ansiBlue": "#57c7ff",
     "terminal.ansiBrightBlack": "#282a36",
@@ -540,6 +541,6 @@
 	"tab.activeBackground": "#232631",
 	"editorGroup.dropBackground": "#232631",
 	"editorGroupHeader.tabsBackground": "#232631",
-	"titleBar.activeBackground": "#FF0000"
+	"titleBar.activeBackground": "#232631"
   }
 }

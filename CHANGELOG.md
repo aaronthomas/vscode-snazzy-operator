@@ -1,5 +1,9 @@
 # Change Log
 All notable changes to the "snazzy-operator" extension will be documented in this file.
 
-## 0.0.1
+## 1.1.0
+- Updated MacOS titlebar colour
+- Updated statusBar colours for different states
+
+## 1.0.0
 - Initial release
