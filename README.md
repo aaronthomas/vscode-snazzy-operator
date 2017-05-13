@@ -4,6 +4,16 @@
 
 A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) and optimised for use with the [Operator Mono](https://www.typography.com/fonts/operator/overview/) font.
 
+## Installation
+
+The theme can be installed via VS Code Quick Open (⌘P) by running:
+
+```
+ext install vscode-snazzy-operator
+```
+
+Alternatively it can be found using the Extensions search feature (⇧⌘X).
+
 ## Screenshot
 ![snazzy-operator](https://raw.githubusercontent.com/aaronthomas/vscode-snazzy-operator/master/preview.png)
 
