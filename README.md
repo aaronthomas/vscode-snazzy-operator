@@ -6,7 +6,7 @@ A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-sn
 
 ## Installation
 
-The theme can be installed via VS Code Quick Open (⌘P) by running:
+The theme is available on the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator) and can be installed in VS Code via Quick Open (⌘P) by running:
 
 ```
 ext install vscode-snazzy-operator
