@@ -125,7 +125,7 @@
       "scope": "entity.other.inherited-class entity.name.type.module",
       "settings": {
         "foreground": "#ff5c57",
-		"fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -135,7 +135,7 @@
         "foreground": "#f3f99d"
       }
     },
-	{
+    {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
@@ -156,7 +156,7 @@
         "foreground": "#ff6ac1"
       }
     },
-	{
+    {
       "name": "Storage Modifier [e.g. class, extends, static] (JS",
       "scope": "storage.modifier, storage.type.class.js, variable.language.this, variable.language.this.js",
       "settings": {
@@ -297,7 +297,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "foreground": "#f3f99d",
-		"fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -492,6 +492,68 @@
       "settings": {
         "foreground": "#ff5c57"
       }
+    },
+    {
+      "name": "Some keywords like const, let, var, extends in Javascript will use this",
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#F9CB63"
+      }
+    },
+    {
+      "name": "To differentiate the signals <> from tags and make tags shinier",
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "#943431"
+      }
+    },
+    {
+      "name": "With this on, function calls can have an actual collor",
+      "scope": "variable.function",
+      "settings": {
+        "foreground": "#C95297"
+      }
+    },
+    {
+      "name": "Parameters from functions, like function about(thisParameterHere)",
+      "scope": "variable.parameter.function",
+      "settings": {
+        "foreground": "#AC8C44"
+      }
+    },
+    {
+      "name": "Keywords like import and export",
+      "scope": "keyword.operator.module",
+      "settings": {
+        "foreground": "#848BB2"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "background": "#3D88AF"
+      }
+    },
+    {
+      "name": "Keys in object literals",
+      "scope": "string.unquoted.label",
+      "settings": {
+        "foreground": "#5AC143"
+      }
+    },
+    {
+      "name": "Separator in key: value for object literals",
+      "scope": "punctuation.separator.key-value.js",
+      "settings": {
+        "foreground": "#428D30"
+      }
+    },
+    {
+      "name": "Curly braces that doesnt need highlight",
+      "scope": "meta.brace.curly.begin.js, meta.brace.curly.end.js",
+      "settings": {
+        "foreground": "#999"
+      }
     }
   ],
   "colors": {
@@ -516,9 +578,9 @@
     "list.activeSelectionBackground": "#54555e",
     "list.hoverBackground": "#54555e",
     "statusBar.background": "#2E313D",
-		"statusBar.foreground": "#6C6E75",
-		"statusBar.debuggingBackground": "#6C6E75",
-		"statusBar.noFolderBackground": "#6C6E75",
+    "statusBar.foreground": "#6C6E75",
+    "statusBar.debuggingBackground": "#6C6E75",
+    "statusBar.noFolderBackground": "#6C6E75",
     "terminal.ansiBlack": "#282a36",
     "terminal.ansiBlue": "#57c7ff",
     "terminal.ansiBrightBlack": "#282a36",
@@ -535,12 +597,12 @@
     "terminal.ansiRed": "#ff5c57",
     "terminal.ansiWhite": "#eff0eb",
     "terminal.ansiYellow": "#f3f99d",
-		"activityBar.background": "#282a36",
-		"sideBar.background": "#2C2F3D",
-		"tab.inactiveBackground": "#2C2F3D",
-		"tab.activeBackground": "#232631",
-		"editorGroup.dropBackground": "#232631",
-		"editorGroupHeader.tabsBackground": "#232631",
-		"titleBar.activeBackground": "#282a36"
+    "activityBar.background": "#282a36",
+    "sideBar.background": "#2C2F3D",
+    "tab.inactiveBackground": "#2C2F3D",
+    "tab.activeBackground": "#232631",
+    "editorGroup.dropBackground": "#232631",
+    "editorGroupHeader.tabsBackground": "#232631",
+    "titleBar.activeBackground": "#282a36"
   }
 }
