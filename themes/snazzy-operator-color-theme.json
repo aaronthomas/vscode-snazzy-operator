@@ -521,7 +521,7 @@
 		"statusBar.noFolderBackground": "#6C6E75",
     "terminal.ansiBlack": "#282a36",
     "terminal.ansiBlue": "#57c7ff",
-    "terminal.ansiBrightBlack": "#282a36",
+    "terminal.ansiBrightBlack": "#757575",
     "terminal.ansiBrightBlue": "#57c7ff",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightGreen": "#5af78e",
