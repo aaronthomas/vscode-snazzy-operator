@@ -492,6 +492,13 @@
       "settings": {
         "foreground": "#ff5c57"
       }
+    },
+    {
+      "name": "JSX Elements",
+      "scope": "support.class.component.open.jsx, support.class.component.close.jsx",
+      "settings": {
+        "foreground": "#ff5c57"
+      }
     }
   ],
   "colors": {
@@ -541,6 +548,15 @@
 		"tab.activeBackground": "#232631",
 		"editorGroup.dropBackground": "#232631",
 		"editorGroupHeader.tabsBackground": "#232631",
-		"titleBar.activeBackground": "#282a36"
+    "titleBar.activeBackground": "#282a36",
+    "editorIndentGuide.activeBackground": "#ffffff8f",
+    "input.background": "#232631",
+    "settings.dropdownBackground": "#232631",
+    "settings.dropdownBorder": "#232631",
+    "settings.dropdownListBorder": "#232631",
+    "editorWidget.background": "#282a36",
+    "editorWidget.resizeBorder": "#232631",
+    "badge.background": "#2c2f3d",
+    "list.inactiveSelectionBackground": "#232631"
   }
 }
